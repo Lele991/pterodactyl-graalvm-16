@@ -1,9 +1,14 @@
+# ----------------------------------
+# Pterodactyl Core Dockerfile
+# Environment: Java
+# Minimum Panel Version: 0.6.0
+# ----------------------------------
 FROM mianotfake/graalvm:16
 
-MAINTAINER mianotfake, <vottus@vott.us>
+MAINTAINER Lele991
 
 RUN apt-get update -y \
- && apt-get install -y curl ca-certificates openssl git tar sqlite fontconfig tzdata iproute2 \
+ && apt-get install -y curl ca-certificates openssl git tar sqlite fontconfig tzdata iproute2 iputils-ping libuuid1 \
  && useradd -d /home/container -m container
 
 USER container
