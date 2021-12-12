@@ -15,8 +15,4 @@ This image uses mianotfake/graalvm as a base image.
 
 ## Versions
 - GraalVM 21.1.0
-- Java 16
-
-## Credits
-
-This image is based on [RikoDEV/pterodactyl-graalvm](https://github.com/RikoDEV/pterodactyl-graalvm)
+- Java 8
