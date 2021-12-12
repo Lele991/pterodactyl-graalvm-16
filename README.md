@@ -15,4 +15,4 @@ This image uses mianotfake/graalvm as a base image.
 
 ## Versions
 - GraalVM 21.1.0
-- Java 8
+- Java 16
