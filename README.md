@@ -11,7 +11,7 @@ GraalVM is a high-performance runtime that provides significant improvements in 
 This image uses mianotfake/graalvm as a base image.
 
 ### Docker Hub:
-> mianotfake/pterodactyl-graalvm:latest
+> lustefaniak/graalvm:16
 
 ## Versions
 - GraalVM 21.1.0
