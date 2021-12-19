@@ -10,5 +10,5 @@ GraalVM is a high-performance runtime that provides significant improvements in 
 > lustefaniak/graalvm:16
 
 ## Versions
-- GraalVM 21.1.0
+- GraalVM 21.2.0
 - Java 16
