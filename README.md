@@ -7,10 +7,6 @@ GraalVM is a high-performance runtime that provides significant improvements in 
 :warning: Support for Java 16 in GraalVM is experimental. Use at your own risk.
 
 ## Docker Image
-
-This image uses mianotfake/graalvm as a base image.
-
-### Docker Hub:
 > lustefaniak/graalvm:16
 
 ## Versions
